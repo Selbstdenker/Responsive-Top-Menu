@@ -17,6 +17,7 @@
 }
 #cabecalho ul {
 list-style: none;
+    margin-bottom: 10px; 
 }
 #cabecalho li {
     display: inline-block;
